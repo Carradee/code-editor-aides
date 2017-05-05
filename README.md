@@ -29,7 +29,7 @@ I have no idea where these would be stored in Windows or Linux.
 2. Convert HTML Entitities to Special Characters.py
 * **Tested in:** Python 2.7.10 & Python 3
 
-* **Includes:** 2 scripts
+### About the Script(s):
 * **Purpose:** convert HTML entity codes to special characters, or special characters to HTML entity codes
 * **Function:** Takes selected text or active document and converts accordingly.
 * **Usage Suggestion:** Connect it to a keyboard command on your code editor.
