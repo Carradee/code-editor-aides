@@ -1,6 +1,7 @@
 #!/usr/bin/php
 <?php
 /*
+	PHP text filter, for conversion of HTML entities and special characters.
 	PHP version >= 4
 	@copyright 2016 Misti Wolanski
  */
