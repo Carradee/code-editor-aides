@@ -1414,5 +1414,4 @@ foreach ($HTML_entities as $row) {
 }
 
 echo $haystack;
-
 ?>
