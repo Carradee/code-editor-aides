@@ -1,11 +1,6 @@
 # code-editor-aides
 Code editors are useful, and they can be made even better with text filters and scripts. Here are some of mine.
 
-## Terms
-
-Fine for personal use as long as attribution stays with it.
-
-
 ## Groups
 
 ### HTML Entities & Special Characters
