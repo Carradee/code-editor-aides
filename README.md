@@ -11,7 +11,7 @@ Fine for personal use as long as attribution stays with it.
 ### HTML Entities & Special Characters
 
 | ------------- | ------------- |
-Includes: | 2 PHP scripts |
+| Includes: | 2 PHP scripts |
 | Requirements: | PHP 4 or later |
 | Purpose: | convert HTML entity codes to special characters, or special characters to HTML entity codes |
 | Function: | Takes selected text or active document and converts accordingly. |
