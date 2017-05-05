@@ -1,4 +1,5 @@
-# code-editor-aides
+code-editor-aides
+======================
 Code editors are useful, and they can be made even better with text filters and scripts. Here are some of mine.
 
 ## Requirements
@@ -17,10 +18,16 @@ To install, put the uncompressed file in that folder. To uninstall, remove it th
 I have no idea where these would be stored in Windows or Linux.
 
 
-## HTML Entities & Special Characters
+## HTML Entities and Special Characters - folder
+### PHP edition
 1. Convert Special Characters to HTML Entitities.php
 2. Convert HTML Entitities to Special Characters.php
 * **Requires:** PHP 4 or later
+
+### Python edition
+1. Convert Special Characters to HTML Entitities.py
+2. Convert HTML Entitities to Special Characters.py
+* **Tested in:** Python 2.7.10 & Python 3
 
 * **Includes:** 2 scripts
 * **Purpose:** convert HTML entity codes to special characters, or special characters to HTML entity codes
