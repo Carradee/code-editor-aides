@@ -10,6 +10,7 @@ Fine for personal use as long as attribution stays with it.
 
 ### HTML Entities & Special Characters
 
+| First Header  | Second Header |
 | ------------- | ------------- |
 | Includes: | 2 PHP scripts |
 | Requirements: | PHP 4 or later |
