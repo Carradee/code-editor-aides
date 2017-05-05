@@ -6,12 +6,16 @@ Code editors are useful, and they can be made even better with text filters and 
 * The scripting language needed by the script.
 * **To run these as-is, you'll need the Mac OS**
 
+
 ## To Install or Uninstall
 You'll need to know where your code editor stores text filters.
 
 In the Mac OS, this will probably be under Library > Application Support. (To reach the Library folder, when in the Finder, select Go and hold down the Option key. The Library folder will appear as an option to select right under "Home" and above "Computer", not quite halfway down the list.) Once in the Application Support folder, look for the folder that has the name of your code editor, such as BBEdit or TextWrangler, which has a folder called "Text Filters" where it allows such scripts.
 
+To install, put the uncompressed file in that folder. To uninstall, remove it the file from that folder. (You can add sub-folders to that folder for storage; the filter will still be accessible in BBEdit or TextWrangler.)
+
 I have no idea where these would be stored in Windows or Linux.
+
 
 ## HTML Entities & Special Characters
 1. Convert Special Characters to HTML Entitities.php
